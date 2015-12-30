@@ -1,0 +1,19 @@
+{
+  "name": "rc-genereator",
+  "version": "0.0.1",
+  "description": "yeoman generator for react.js components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greyd/rc-genereator.git"
+  },
+  "author": "Valerii Pavlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greyd/rc-genereator/issues"
+  },
+  "homepage": "https://github.com/greyd/rc-genereator#readme"
+}
